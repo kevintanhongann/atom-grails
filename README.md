@@ -8,4 +8,5 @@ currently depends on https://github.com/textmate/groovy.tmbundle for syntax high
 Available commands
 ==================
 
-  Run  ==> grails run
+  Run  ==> SHIFT + CMD + P 
+           then type 'grails:run'
