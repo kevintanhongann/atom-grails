@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # grails package
 
 grails plugin for atom
