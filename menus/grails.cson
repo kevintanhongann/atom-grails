@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable grails': 'grails:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'grails'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'grails:toggle' }
+      ]
+    ]
+  }
+]
